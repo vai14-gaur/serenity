@@ -18,7 +18,7 @@ This project is a starting point for a Flutter application.
 - ## Download link ✨✨ 
     [Serenity - Android Application](https://drive.google.com/file/d/13_kc6E0Gul_ZxOdjxJLMeeGGGlBeESEg/view?usp=sharing)
 
-### Features ✨✨
+- ### Features ✨✨
 
 1. #### Login & Authentication
 This functionality is used to make user authenticate with the 
