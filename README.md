@@ -1,20 +1,12 @@
-# serenity
+# Serenity - Therapy to Cure Mind...
 
-A new Flutter project.
+![App UI](https://drive.google.com/file/d/1ByuH3IimuU17XfC9kljEY0anlfPZYKUD/view?usp=sharing)
+
 
 ## Getting Started
 
+A new Flutter project.
 This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
 
 ### The project SERENITY is a flutter application that tracks the mental health of its users and tries to help them get through their condition by suggesting tasks and maintain a record of their mental state further music playlist through emotion analysis is suggested supplementing with motivating quotes is an addon to the same.
 
@@ -54,5 +46,5 @@ same to enhance emotional positivity.
 This will be displaying motivation quotes.
 
 - ## Demonstration ✨✨
-    [Demo Video of App ]()
+    ![Preview of App ]()
 
