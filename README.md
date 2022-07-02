@@ -1,6 +1,6 @@
 # Serenity - Therapy to Cure Mind...
 
-![App UI](https://drive.google.com/file/d/1ByuH3IimuU17XfC9kljEY0anlfPZYKUD/view?usp=sharing)
+![App UI](https://drive.google.com/file/d/1ByuH3IimuU17XfC9kljEY0anlfPZYKUD/view)
 
 
 ## Getting Started
