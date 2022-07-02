@@ -11,8 +11,8 @@ This project is a starting point for a Flutter application.
 ### The project SERENITY is a flutter application that tracks the mental health of its users and tries to help them get through their condition by suggesting tasks and maintain a record of their mental state further music playlist through emotion analysis is suggested supplementing with motivating quotes is an addon to the same.
 
 - ## Tools ✨✨
-    🔧 Project Category: Flutter App Development
-    🔧 Tools, Technology and Language to be used in project: Flutter, Firebase, Rest API, VS- Code, Android Studio
+    - 🔧 Project Category: Flutter App Development
+    - 🔧 Tools, Technology and Language to be used in project: Flutter, Firebase, Rest API, VS- Code, Android Studio
     
     
 - ## Download link ✨✨ 
@@ -61,7 +61,7 @@ This will be displaying motivation quotes.
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/vai14-gaur"><img src="" width="100px;" alt=""/><br /><sub><b>Vaibhavi Gaur</b></sub></a>🖋🎨💻🐛📖</td>
+    <td align="center"><a href="https://github.com/vai14-gaur"><img src="https://avatars.githubusercontent.com/u/66736001?v=4" width="100px;" alt=""/><br /><sub><b>Vaibhavi Gaur</b></sub></a><br />🖋🎨💻🐛📖</td>
     <td align="center"><a href="https://github.com/rashmii1"><img src="https://avatars.githubusercontent.com/u/61617166?v=4" width="100px;" alt=""/><br /><sub><b>Rashmi Shah</b></sub></a><br />🖋🐛📖</td>
     <td align="center"><a href="https://github.com/onshigoyal"><img src="" width="100px;" alt=""/><br /><sub><b>Onshi Goyal</b></sub></a><br />🖋🐛📖</td>    
   </tr>
