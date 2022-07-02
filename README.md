@@ -61,9 +61,9 @@ This will be displaying motivation quotes.
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/vai14-gaur"><img src="https://avatars.githubusercontent.com/u/1250858?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vaibhavi Gaur</b></sub></a>🖋🎨💻🐛📖</td>
-    <td align="center"><a href="https://github.com/rashmii1"><img src="https://avatars.githubusercontent.com/u/61617166?v=4" width="100px;" alt=""/><br /><sub><b>Gilles</b></sub></a><br /><a href="https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard/issues?q=author%3Agillescoolen" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="https://github.com/RounakTadvi"><img src="https://avatars.githubusercontent.com/u/38634459?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rounak Tadvi</b></sub></a><br /><a href="#maintenance-RounakTadvi" title="Maintenance">🚧</a> <a href="https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard/commits?author=RounakTadvi" title="Code">💻</a></td>    
+    <td align="center"><a href="https://github.com/vai14-gaur"><img src="" width="100px;" alt=""/><br /><sub><b>Vaibhavi Gaur</b></sub></a>🖋🎨💻🐛📖</td>
+    <td align="center"><a href="https://github.com/rashmii1"><img src="https://avatars.githubusercontent.com/u/61617166?v=4" width="100px;" alt=""/><br /><sub><b>Rashmi Shah</b></sub></a><br />🖋🐛📖</td>
+    <td align="center"><a href="https://github.com/onshigoyal"><img src="" width="100px;" alt=""/><br /><sub><b>Onshi Goyal</b></sub></a><br />🖋🐛📖</td>    
   </tr>
 </table>
 
@@ -72,5 +72,4 @@ This will be displaying motivation quotes.
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
