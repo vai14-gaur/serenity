@@ -51,7 +51,7 @@ same to enhance emotional positivity.
 This will be displaying motivation quotes.
 
 - ## Demonstration ✨✨
-     📹 ![Preview of App ](/video.mp4)
+     📹 ![Preview of App ](/videos.mp4)
     
 
 
