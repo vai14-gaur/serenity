@@ -51,7 +51,7 @@ same to enhance emotional positivity.
 This will be displaying motivation quotes.
 
 - ## Demonstration ✨✨
-     📹 ![Preview of App ]()
+     📹 ![Preview of App ](/video.mp4)
     
 
 
@@ -63,7 +63,7 @@ This will be displaying motivation quotes.
   <tr>
     <td align="center"><a href="https://github.com/vai14-gaur"><img src="https://avatars.githubusercontent.com/u/66736001?v=4" width="100px;" alt=""/><br /><sub><b>Vaibhavi Gaur</b></sub></a><br />🖋🎨💻🐛📖</td>
     <td align="center"><a href="https://github.com/rashmii1"><img src="https://avatars.githubusercontent.com/u/61617166?v=4" width="100px;" alt=""/><br /><sub><b>Rashmi Shah</b></sub></a><br />🖋🐛📖</td>
-    <td align="center"><a href="https://github.com/onshigoyal"><img src="" width="100px;" alt=""/><br /><sub><b>Onshi Goyal</b></sub></a><br />🖋🐛📖</td>    
+    <td align="center"><a href="https://github.com/onshi1706"><img src="https://avatars.githubusercontent.com/u/61222091?v=4" width="100px;" alt=""/><br /><sub><b>Onshi Goyal</b></sub></a><br />🖋🐛📖</td>    
   </tr>
 </table>
 
